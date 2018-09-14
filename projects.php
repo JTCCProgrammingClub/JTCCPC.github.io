@@ -7,9 +7,7 @@
 </head>
 
 <body>
-	<?php
-	include_once 'header.html';
-	?>
+
 	<hr>
 	<article class="container">
 		<section class="gallery">
